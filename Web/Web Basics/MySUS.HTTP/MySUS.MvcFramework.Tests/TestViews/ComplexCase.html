@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>"Hello from toshko server {O:O}"</h1>
+
+    @if(Model.Name == "Test1234")
+    {
+        <h1>This Model.Name = @Model.Name, Model.Age =@Model.Age</h1>
+        <h1>@(1+1)</h1>
+    }
+
+    @for(var a = 0; a < 5; a++)
+    {
+        @var b = 5;
+        <p>@b</p>
+    }
+
+</body>
+</html>

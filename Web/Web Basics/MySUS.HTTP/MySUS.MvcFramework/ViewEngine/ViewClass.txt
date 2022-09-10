@@ -1,0 +1,21 @@
+﻿using System;
+using System.Text;
+using System.Linq;
+using System.Collections.Generic;
+using MySUS.MvcFramework.ViewEngine;
+
+namespace ViewNamespace
+{
+    public class ViewClass : IView
+    {
+        public string Execute(object viewModel, string user)
+        {
+            var sb = new StringBuilder();
+            var User = user;
+
+            //Replace
+
+            return sb.ToString();
+        }
+    }
+}
