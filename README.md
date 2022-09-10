@@ -1,1 +1,1 @@
-# softuni
+# Softuni exercises.
