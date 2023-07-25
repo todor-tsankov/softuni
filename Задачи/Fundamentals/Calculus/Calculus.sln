@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculus", "Calculus\Calculus.csproj", "{3B959D3F-8B21-4D4F-A3C4-E8E5F7FBD510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pi", "pi\pi.csproj", "{A163EC09-0BA7-477E-AADF-97B381CABB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{52F396BB-7A9A-4078-A9CA-0FD15372F29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock2", "Clock2\Clock2.csproj", "{A797EC02-DB10-452C-A5D6-8977B33E6988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proba", "proba\proba.csproj", "{9E3C4BDB-7370-4D9B-8EAE-774592290C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersGenerator", "RandomNumbersGenerator\RandomNumbersGenerator.csproj", "{8ABEAF6E-E2AF-44E5-9C71-8B5C1B6082AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B959D3F-8B21-4D4F-A3C4-E8E5F7FBD510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B959D3F-8B21-4D4F-A3C4-E8E5F7FBD510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B959D3F-8B21-4D4F-A3C4-E8E5F7FBD510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B959D3F-8B21-4D4F-A3C4-E8E5F7FBD510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A163EC09-0BA7-477E-AADF-97B381CABB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A163EC09-0BA7-477E-AADF-97B381CABB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A163EC09-0BA7-477E-AADF-97B381CABB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A163EC09-0BA7-477E-AADF-97B381CABB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F396BB-7A9A-4078-A9CA-0FD15372F29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F396BB-7A9A-4078-A9CA-0FD15372F29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F396BB-7A9A-4078-A9CA-0FD15372F29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F396BB-7A9A-4078-A9CA-0FD15372F29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A797EC02-DB10-452C-A5D6-8977B33E6988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A797EC02-DB10-452C-A5D6-8977B33E6988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A797EC02-DB10-452C-A5D6-8977B33E6988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A797EC02-DB10-452C-A5D6-8977B33E6988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3C4BDB-7370-4D9B-8EAE-774592290C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3C4BDB-7370-4D9B-8EAE-774592290C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3C4BDB-7370-4D9B-8EAE-774592290C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3C4BDB-7370-4D9B-8EAE-774592290C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABEAF6E-E2AF-44E5-9C71-8B5C1B6082AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABEAF6E-E2AF-44E5-9C71-8B5C1B6082AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABEAF6E-E2AF-44E5-9C71-8B5C1B6082AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABEAF6E-E2AF-44E5-9C71-8B5C1B6082AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3041E76-D3A3-4D9A-97BF-95A12C9ED898}
+	EndGlobalSection
+EndGlobal
