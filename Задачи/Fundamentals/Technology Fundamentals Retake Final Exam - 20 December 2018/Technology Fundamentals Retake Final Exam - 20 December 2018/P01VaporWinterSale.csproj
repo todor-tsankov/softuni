@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Technology_Fundamentals_Retake_Final_Exam___20_December_2018</RootNamespace>
+  </PropertyGroup>
+
+</Project>
